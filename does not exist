@@ -1,0 +1,4 @@
+std::cout << "Switched to branch: " << branch << "\n";
+        } else {
+            std::cout << "Branch '" << branch << "' does not exist\n";
+        }
